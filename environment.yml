@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - texlive
   - pip
   - pip:
     - nbgitpuller
@@ -17,4 +18,4 @@ dependencies:
     - latex
     - tex
     - PyLaTeX
-    - texlive
+
