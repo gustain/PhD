@@ -17,3 +17,4 @@ dependencies:
     - latex
     - tex
     - PyLaTeX
+    - texlive
