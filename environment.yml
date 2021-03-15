@@ -10,3 +10,7 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - colour-science
+    - seaborn
+    - imageio
+    - ipywidgets
