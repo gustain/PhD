@@ -20,7 +20,7 @@ distance_ill_mm,24.0
 fiber_ill,UV-600um-1
 lamp,"HPX1_Ocean Optics, HPX-2000-HP-DUV"
 filter,VIS-25-01_Calflex-C
-white_ref, 
+white_ref,"WR1_Dr Lange, pressed barium sulphate powder"
 [ANALYSIS DATA], 
 Id,MF.0055.08
 specular_component,included
@@ -28,7 +28,7 @@ integration_time_ms,240.00
 average,10
 duration_min,11.0
 interval_sec,23.0
-measurements_N, 
+measurements_N,30
 [BEAM DATA], 
 beam_photo,05
 resolution_micron/pixel,0.7997
@@ -38,8 +38,8 @@ irradiance_W/m**2,(1.23+/-0.22)e+04
 luminuous_flux_lm,0.95
 illuminance_lux,3261163.0
 [RESULTS], 
-E_1dE00_MJ/m**2_Mlx.hr,1.23_0.09
-E_2dE00_MJ/m**2_Mlx.hr,4.23_0.31
+E_1dE00_MJ/m**2_Mlx.hr,1.22_0.09
+E_2dE00_MJ/m**2_Mlx.hr,4.24_0.31
 dEab,6.58
 dE00,2.89
 dR,1.84
