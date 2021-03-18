@@ -14,8 +14,6 @@ dependencies:
     - seaborn
     - imageio
     - ipywidgets
-    - latex
-    - tex
-    - PyLaTeX
+
 
 
